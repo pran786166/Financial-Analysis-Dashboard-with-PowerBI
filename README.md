@@ -36,7 +36,7 @@ By leveraging this dashboard, we gain actionable insights that help optimize our
 ## How to Use
 1. **Clone the Repository**: 
    ```bash
-   git clone [https://github.com/yourusername/financial-performance-dashboard.git](https://github.com/pran786166/Financial-Analysis-Dashboard-by-PowerBI.git)
+   git clone  https://github.com/pran786166/Financial-Analysis-Dashboard-by-PowerBI.git
    
 2. **Open PowerBI**: Launch Microsoft PowerBI on your machine.
 3. **Load the Dashboard File**: Open the .pbix file from the cloned repository.
